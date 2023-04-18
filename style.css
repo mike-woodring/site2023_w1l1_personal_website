@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+    border-width: thin;
+}
+
+h3 {
+    font-family:'Lucida Sans'
+}
+
+.flexbox-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.project_card {
+    background-color: beige;
+    border-color: blue;
+    border-width: thick;
+    border-style: solid;
+    margin: 100;
+    padding: 100;
+}
+
+#profile_photo {
+    width: 25%;
+    height: 25%;
+}
